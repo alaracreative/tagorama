@@ -12,4 +12,6 @@ class Tag extends Model
         TagOrderScopes;
 
     public $timestamps = false;
+
+    protected $fillable = ['name', 'slug'];
 }
