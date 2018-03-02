@@ -2,6 +2,7 @@
     "name": "alaracreative/tagorama",
     "description": "An Eloquent tagging package for Laravel. Just a demo, don't expect much.",
     "license": "MIT",
+    "keywords": ["laravel", "tag", "tagging", "eloquent"],
     "authors": [
         {
             "name": "Scott Zirkel",
